@@ -1,0 +1,398 @@
+{
+  "sender": "0054692306",
+  "receiver": "2715093",
+  "fileCreatedDate": "250711",
+  "fileCreatedTime": "0815",
+  "fileIdNumber": "2507110815-58",
+  "physicalRecordLength": 80,
+  "blockSize": 80,
+  "versionNumber": 2,
+  "fileControlTotal": "2344959933",
+  "numberOfGroups": 5,
+  "numberOfRecords": 143,
+  "Groups": [
+    {
+      "receiver": "2715093",
+      "originator": "122187445",
+      "groupStatus": 1,
+      "asOfDate": "250710",
+      "asOfTime": "0000",
+      "currencyCode": "USD",
+      "asOfDateModifier": 2,
+      "groupControlTotal": "1850058755",
+      "numberOfAccounts": 1,
+      "numberOfRecords": 23,
+      "accounts": [
+        {
+          "accountNumber": "8063028964",
+          "currencyCode": "USD/",
+          "summaries": [],
+          "accountControlTotal": "1850058755",
+          "numberRecords": 21,
+          "details": [
+            {
+              "TypeCode": "201",
+              "Amount": "2054692",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "FROM XXXXXX9006",
+              "CustomerReferenceNumber": "",
+              "Text": " TRANSFER FROM     DEPOSIT SYSTEM    ACCOUNT                   XXXXXX9006"
+            },
+            {
+              "TypeCode": "501",
+              "Amount": "14790449",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "TO   XXXXXX8999",
+              "CustomerReferenceNumber": "",
+              "Text": " TRANSFER TO       DEPOSIT SYSTEM    ACCOUNT                   XXXXXX8999"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "receiver": "2715093",
+      "originator": "122187445",
+      "groupStatus": 1,
+      "asOfDate": "250710",
+      "asOfTime": "0000",
+      "currencyCode": "USD",
+      "asOfDateModifier": 2,
+      "groupControlTotal": "450706602",
+      "numberOfAccounts": 1,
+      "numberOfRecords": 57,
+      "accounts": [
+        {
+          "accountNumber": "8063028999",
+          "currencyCode": "USD/",
+          "summaries": [],
+          "accountControlTotal": "450706602",
+          "numberRecords": 55,
+          "details": [
+            {
+              "TypeCode": "201",
+              "Amount": "14790449",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "FROM XXXXXX8964",
+              "CustomerReferenceNumber": "",
+              "Text": " TRANSFER FROM     MONEY MARKET SWEEP                          XXXXXX8964"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "8625000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000001434",
+              "CustomerReferenceNumber": "",
+              "Text": " FIRST AMERICAN TITLE INSURANCE COMP"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "8400000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000000539",
+              "CustomerReferenceNumber": "",
+              "Text": " FIDELITY NATL TITLE INSURANCE C"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "2600000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000001091",
+              "CustomerReferenceNumber": "",
+              "Text": " NORTHSTAR TITLE AGENCY"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "2130000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000000785",
+              "CustomerReferenceNumber": "",
+              "Text": " STEWART TITLE & TRUST OF TUCSON"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "1405000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000001158",
+              "CustomerReferenceNumber": "",
+              "Text": " 1/PLACER TITLE COMPANY DBA PREMIER"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "1350000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000001257",
+              "CustomerReferenceNumber": "",
+              "Text": " YAVAPAI TITLE AGENCY INC"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "1087500",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000000490",
+              "CustomerReferenceNumber": "",
+              "Text": " MAGNUS TITLE AGENCY LLC"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "781500",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000001507",
+              "CustomerReferenceNumber": "",
+              "Text": " MAGNUS TITLE AGENCY LLC"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "627500",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000001484",
+              "CustomerReferenceNumber": "",
+              "Text": " ARIZONA PREMIER TITLE LLC"
+            },
+            {
+              "TypeCode": "195",
+              "Amount": "345000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000000459",
+              "CustomerReferenceNumber": "",
+              "Text": " CHICAGO TITLE AGENCY INC. MARICOPA"
+            },
+            {
+              "TypeCode": "495",
+              "Amount": "781500",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "000000000000587",
+              "CustomerReferenceNumber": "",
+              "Text": "Magnus Title Agenc Magnus Title Agency"
+            },
+            {
+              "TypeCode": "451",
+              "Amount": "38667068",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "RUSS LYON LLC     PA",
+              "CustomerReferenceNumber": "",
+              "Text": " RUSS LYON LLC     PAYROLL           250710-SETT-B731 UPL"
+            },
+            {
+              "TypeCode": "451",
+              "Amount": "804405",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "PAYLOAD           WI",
+              "CustomerReferenceNumber": "",
+              "Text": " PAYLOAD           WITHDRAW          RUSS LYON LLC OPERATING ACCOUNT"
+            },
+            {
+              "TypeCode": "451",
+              "Amount": "732850",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "BEC15756          PA",
+              "CustomerReferenceNumber": "",
+              "Text": " BEC15756          PAYMENT                             BROKERAGE ENGINE SAAS"
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "43512",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000032077",
+              "CustomerReferenceNumber": "00000032077",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "33180",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000034942",
+              "CustomerReferenceNumber": "00000034942",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "52453",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000034976",
+              "CustomerReferenceNumber": "00000034976",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "573300",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000034990",
+              "CustomerReferenceNumber": "00000034990",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "1718750",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000034995",
+              "CustomerReferenceNumber": "00000034995",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "335738",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000035002",
+              "CustomerReferenceNumber": "00000035002",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "12993",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000035005",
+              "CustomerReferenceNumber": "00000035005",
+              "Text": ""
+            },
+            {
+              "TypeCode": "475",
+              "Amount": "400000",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "00000035009",
+              "CustomerReferenceNumber": "00000035009",
+              "Text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "receiver": "2715093",
+      "originator": "122187445",
+      "groupStatus": 1,
+      "asOfDate": "250710",
+      "asOfTime": "0000",
+      "currencyCode": "USD",
+      "asOfDateModifier": 2,
+      "groupControlTotal": "43779066",
+      "numberOfAccounts": 1,
+      "numberOfRecords": 23,
+      "accounts": [
+        {
+          "accountNumber": "8063029006",
+          "currencyCode": "USD/",
+          "summaries": [],
+          "accountControlTotal": "43779066",
+          "numberRecords": 21,
+          "details": [
+            {
+              "TypeCode": "142",
+              "Amount": "2054692",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "PAYLOAD           DE",
+              "CustomerReferenceNumber": "",
+              "Text": " PAYLOAD           DEPOSIT           RUSS LYON LLC CREDIT CARD ACCOUNT"
+            },
+            {
+              "TypeCode": "501",
+              "Amount": "2054692",
+              "FundsType": {
+                "type_code": "0"
+              },
+              "BankReferenceNumber": "TO   XXXXXX8964",
+              "CustomerReferenceNumber": "",
+              "Text": " TRANSFER TO       MONEY MARKET SWEEP                          XXXXXX8964"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "receiver": "2715093",
+      "originator": "122187445",
+      "groupStatus": 1,
+      "asOfDate": "250710",
+      "asOfTime": "0000",
+      "currencyCode": "USD",
+      "asOfDateModifier": 2,
+      "groupControlTotal": "0",
+      "numberOfAccounts": 1,
+      "numberOfRecords": 19,
+      "accounts": [
+        {
+          "accountNumber": "8063029014",
+          "currencyCode": "USD/",
+          "summaries": [],
+          "accountControlTotal": "0",
+          "numberRecords": 17,
+          "details": []
+        }
+      ]
+    },
+    {
+      "receiver": "2715093",
+      "originator": "122187445",
+      "groupStatus": 1,
+      "asOfDate": "250710",
+      "asOfTime": "0000",
+      "currencyCode": "USD",
+      "asOfDateModifier": 2,
+      "groupControlTotal": "415510",
+      "numberOfAccounts": 1,
+      "numberOfRecords": 19,
+      "accounts": [
+        {
+          "accountNumber": "8063029049",
+          "currencyCode": "USD/",
+          "summaries": [],
+          "accountControlTotal": "415510",
+          "numberRecords": 17,
+          "details": []
+        }
+      ]
+    }
+  ]
+}
